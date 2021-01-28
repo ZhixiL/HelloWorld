@@ -9,6 +9,6 @@ public class HelloWorldController {
     @RequestMapping("/")
     public String index()
     {
-        return "Hello World from windows!";
+        return "Hello World from windows IntelliJ!";
     }
 }
